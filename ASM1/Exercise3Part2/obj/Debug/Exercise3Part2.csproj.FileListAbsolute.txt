@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Exercise3Part2\bin\Debug\Exercise3Part2.exe.config
+C:\Users\Admin\source\repos\Exercise3Part2\bin\Debug\Exercise3Part2.exe
+C:\Users\Admin\source\repos\Exercise3Part2\bin\Debug\Exercise3Part2.pdb
+C:\Users\Admin\source\repos\Exercise3Part2\obj\Debug\Exercise3Part2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Exercise3Part2\obj\Debug\Exercise3Part2.exe
+C:\Users\Admin\source\repos\Exercise3Part2\obj\Debug\Exercise3Part2.pdb
