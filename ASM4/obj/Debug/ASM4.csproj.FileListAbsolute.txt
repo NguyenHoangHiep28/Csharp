@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ASM4\bin\Debug\ASM4.exe.config
+C:\Users\Admin\source\repos\ASM4\bin\Debug\ASM4.exe
+C:\Users\Admin\source\repos\ASM4\bin\Debug\ASM4.pdb
+C:\Users\Admin\source\repos\ASM4\obj\Debug\ASM4.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ASM4\obj\Debug\ASM4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ASM4\obj\Debug\ASM4.exe
+C:\Users\Admin\source\repos\ASM4\obj\Debug\ASM4.pdb
