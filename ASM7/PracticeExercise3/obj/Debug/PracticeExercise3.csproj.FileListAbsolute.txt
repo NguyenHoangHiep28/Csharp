@@ -1,0 +1,7 @@
+F:\csSource\repos\ASM7\PracticeExercise3\bin\Debug\PracticeExercise3.exe.config
+F:\csSource\repos\ASM7\PracticeExercise3\bin\Debug\PracticeExercise3.exe
+F:\csSource\repos\ASM7\PracticeExercise3\bin\Debug\PracticeExercise3.pdb
+F:\csSource\repos\ASM7\PracticeExercise3\obj\Debug\PracticeExercise3.csprojAssemblyReference.cache
+F:\csSource\repos\ASM7\PracticeExercise3\obj\Debug\PracticeExercise3.csproj.CoreCompileInputs.cache
+F:\csSource\repos\ASM7\PracticeExercise3\obj\Debug\PracticeExercise3.exe
+F:\csSource\repos\ASM7\PracticeExercise3\obj\Debug\PracticeExercise3.pdb
