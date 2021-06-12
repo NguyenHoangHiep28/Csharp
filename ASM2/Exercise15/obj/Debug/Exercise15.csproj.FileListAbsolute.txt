@@ -1,0 +1,6 @@
+F:\csSource\repos\Exercise15\bin\Debug\Exercise15.exe.config
+F:\csSource\repos\Exercise15\bin\Debug\Exercise15.exe
+F:\csSource\repos\Exercise15\bin\Debug\Exercise15.pdb
+F:\csSource\repos\Exercise15\obj\Debug\Exercise15.csproj.CoreCompileInputs.cache
+F:\csSource\repos\Exercise15\obj\Debug\Exercise15.exe
+F:\csSource\repos\Exercise15\obj\Debug\Exercise15.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SelectionStructureExercises\bin\Debug\SelectionStructureExercises.exe.config
+C:\Users\Admin\source\repos\SelectionStructureExercises\bin\Debug\SelectionStructureExercises.exe
+C:\Users\Admin\source\repos\SelectionStructureExercises\bin\Debug\SelectionStructureExercises.pdb
+C:\Users\Admin\source\repos\SelectionStructureExercises\obj\Debug\Exercise1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SelectionStructureExercises\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SelectionStructureExercises\obj\Debug\SelectionStructureExercises.exe
+C:\Users\Admin\source\repos\SelectionStructureExercises\obj\Debug\SelectionStructureExercises.pdb

@@ -1,0 +1,7 @@
+F:\csSource\repos\BasicCSharpExercises\bin\Debug\BasicCSharpExercises.exe.config
+F:\csSource\repos\BasicCSharpExercises\bin\Debug\BasicCSharpExercises.exe
+F:\csSource\repos\BasicCSharpExercises\bin\Debug\BasicCSharpExercises.pdb
+F:\csSource\repos\BasicCSharpExercises\obj\Debug\Exercise1.csprojAssemblyReference.cache
+F:\csSource\repos\BasicCSharpExercises\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+F:\csSource\repos\BasicCSharpExercises\obj\Debug\BasicCSharpExercises.exe
+F:\csSource\repos\BasicCSharpExercises\obj\Debug\BasicCSharpExercises.pdb

@@ -1,0 +1,7 @@
+F:\csSource\repos\Exercise16\bin\Debug\Exercise16.exe.config
+F:\csSource\repos\Exercise16\bin\Debug\Exercise16.exe
+F:\csSource\repos\Exercise16\bin\Debug\Exercise16.pdb
+F:\csSource\repos\Exercise16\obj\Debug\Exercise16.csprojAssemblyReference.cache
+F:\csSource\repos\Exercise16\obj\Debug\Exercise16.csproj.CoreCompileInputs.cache
+F:\csSource\repos\Exercise16\obj\Debug\Exercise16.exe
+F:\csSource\repos\Exercise16\obj\Debug\Exercise16.pdb

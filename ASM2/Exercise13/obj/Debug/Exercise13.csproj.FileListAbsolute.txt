@@ -1,0 +1,7 @@
+F:\csSource\repos\Exercise13\bin\Debug\Exercise13.exe.config
+F:\csSource\repos\Exercise13\bin\Debug\Exercise13.exe
+F:\csSource\repos\Exercise13\bin\Debug\Exercise13.pdb
+F:\csSource\repos\Exercise13\obj\Debug\Exercise13.csprojAssemblyReference.cache
+F:\csSource\repos\Exercise13\obj\Debug\Exercise13.csproj.CoreCompileInputs.cache
+F:\csSource\repos\Exercise13\obj\Debug\Exercise13.exe
+F:\csSource\repos\Exercise13\obj\Debug\Exercise13.pdb
