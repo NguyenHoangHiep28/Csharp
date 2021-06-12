@@ -1,0 +1,7 @@
+F:\csSource\repos\ASM8\Exercise1\bin\Debug\Exercise1.exe.config
+F:\csSource\repos\ASM8\Exercise1\bin\Debug\Exercise1.exe
+F:\csSource\repos\ASM8\Exercise1\bin\Debug\Exercise1.pdb
+F:\csSource\repos\ASM8\Exercise1\obj\Debug\Exercise1.csprojAssemblyReference.cache
+F:\csSource\repos\ASM8\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+F:\csSource\repos\ASM8\Exercise1\obj\Debug\Exercise1.exe
+F:\csSource\repos\ASM8\Exercise1\obj\Debug\Exercise1.pdb
