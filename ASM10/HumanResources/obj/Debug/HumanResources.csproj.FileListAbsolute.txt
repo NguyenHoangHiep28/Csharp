@@ -1,0 +1,14 @@
+D:\Aptech\T2009E\04. AP\HumanResources\HumanResources\bin\Debug\HumanResources.exe.config
+D:\Aptech\T2009E\04. AP\HumanResources\HumanResources\bin\Debug\HumanResources.exe
+D:\Aptech\T2009E\04. AP\HumanResources\HumanResources\bin\Debug\HumanResources.pdb
+D:\Aptech\T2009E\04. AP\HumanResources\HumanResources\obj\Debug\HumanResources.csprojAssemblyReference.cache
+D:\Aptech\T2009E\04. AP\HumanResources\HumanResources\obj\Debug\HumanResources.csproj.CoreCompileInputs.cache
+D:\Aptech\T2009E\04. AP\HumanResources\HumanResources\obj\Debug\HumanResources.exe
+D:\Aptech\T2009E\04. AP\HumanResources\HumanResources\obj\Debug\HumanResources.pdb
+F:\csSource\repos\HumanResources\HumanResources\obj\Debug\HumanResources.csprojAssemblyReference.cache
+F:\csSource\repos\HumanResources\HumanResources\obj\Debug\HumanResources.csproj.CoreCompileInputs.cache
+F:\csSource\repos\HumanResources\HumanResources\obj\Debug\HumanResources.exe
+F:\csSource\repos\HumanResources\HumanResources\obj\Debug\HumanResources.pdb
+F:\csSource\repos\HumanResources\HumanResources\bin\Debug\HumanResources.exe.config
+F:\csSource\repos\HumanResources\HumanResources\bin\Debug\HumanResources.exe
+F:\csSource\repos\HumanResources\HumanResources\bin\Debug\HumanResources.pdb
