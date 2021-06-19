@@ -1,0 +1,14 @@
+F:\csSource\repos\APPracticalExam\bin\Debug\APPracticalExam.exe.config
+F:\csSource\repos\APPracticalExam\bin\Debug\APPracticalExam.exe
+F:\csSource\repos\APPracticalExam\bin\Debug\APPracticalExam.pdb
+F:\csSource\repos\APPracticalExam\obj\Debug\Exercise1.csprojAssemblyReference.cache
+F:\csSource\repos\APPracticalExam\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+F:\csSource\repos\APPracticalExam\obj\Debug\APPracticalExam.exe
+F:\csSource\repos\APPracticalExam\obj\Debug\APPracticalExam.pdb
+F:\csSource\repos\APPracticalExam\Exercise1\bin\Debug\APPracticalExam.exe.config
+F:\csSource\repos\APPracticalExam\Exercise1\bin\Debug\APPracticalExam.exe
+F:\csSource\repos\APPracticalExam\Exercise1\bin\Debug\APPracticalExam.pdb
+F:\csSource\repos\APPracticalExam\Exercise1\obj\Debug\Exercise1.csprojAssemblyReference.cache
+F:\csSource\repos\APPracticalExam\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+F:\csSource\repos\APPracticalExam\Exercise1\obj\Debug\APPracticalExam.exe
+F:\csSource\repos\APPracticalExam\Exercise1\obj\Debug\APPracticalExam.pdb
